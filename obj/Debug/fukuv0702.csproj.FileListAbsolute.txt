@@ -1,0 +1,9 @@
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\bin\Debug\fukuv0702.exe.config
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\bin\Debug\fukuv0702.exe
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\bin\Debug\fukuv0702.pdb
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.Form1.resources
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.Properties.Resources.resources
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.csproj.GenerateResource.Cache
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.exe
+C:\Users\student\Documents\sugita\c#\fukuv0702\fukuv0702\obj\Debug\fukuv0702.pdb
